@@ -39,10 +39,11 @@ The dataset is from Kaggle Playground Series S6E3.
 
 ## Interactive Analytics Dashboard
 The dashboard provides a comprehensive overview of customer behavior and churn drivers:
-- **Contract Analysis:** Impact of short-term vs. long-term contracts.
-- **Financial Metrics:** Correlation between monthly charges and customer loss.
-- **Service Quality:** Performance across different internet service providers.
-https://public.tableau.com/app/profile/hilal.zerk.demi.rkan/viz/CustomerChurnAnalysisDashboardAnalizi/Dashboard1
+- **Overall Churn Rate:** Shows the total percentage of lost customers to monitor the overall health of the business.
+- **Contract Analysis:** Analyzes how contract duration impacts loyalty and identifies the riskiest commitment types.
+- **Financial Metrics:** Explores how monthly charges affect customer loss and identifies specific price points where churn is concentrated.
+
+👉 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/hilal.zerk.demi.rkan/viz/CustomerChurnAnalysisDashboardAnalizi/Dashboard1)
 
 ## Kaggle Score
 Public Score: **0.9058** (XGBoost)
