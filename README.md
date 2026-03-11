@@ -37,6 +37,13 @@ The dataset is from Kaggle Playground Series S6E3.
 | Random Forest | 0.8976 | 0.85 |
 | **XGBoost** | **0.9143** | **0.86** |
 
+## Interactive Analytics Dashboard
+The dashboard provides a comprehensive overview of customer behavior and churn drivers:
+- **Contract Analysis:** Impact of short-term vs. long-term contracts.
+- **Financial Metrics:** Correlation between monthly charges and customer loss.
+- **Service Quality:** Performance across different internet service providers.
+https://public.tableau.com/app/profile/hilal.zerk.demi.rkan/viz/CustomerChurnAnalysisDashboardAnalizi/Dashboard1
+
 ## Kaggle Score
 Public Score: **0.9058** (XGBoost)
 
