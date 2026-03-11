@@ -24,6 +24,12 @@ The dataset is from Kaggle Playground Series S6E3.
 3. Model Training & Evaluation
 4. Kaggle Submission
 
+## Key Findings
+- Customers with month-to-month contracts churn significantly more
+- New customers (low tenure) have higher churn rates
+- Fiber optic internet users churn more than DSL users
+- Higher monthly charges correlate with higher churn
+
 ## Model Results
 | Model | AUC-ROC | Accuracy |
 |---|---|---|
@@ -33,3 +39,6 @@ The dataset is from Kaggle Playground Series S6E3.
 
 ## Kaggle Score
 Public Score: **0.9058** (XGBoost)
+
+## Kaggle Notebook
+[Customer Churn Prediction Notebook](https://www.kaggle.com/code/hilalzerkdemirkan/customer-churn-prediction)
